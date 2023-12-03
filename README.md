@@ -45,10 +45,12 @@ print(solution)
 
 ## Output:
 i)To find the L and U matrix
-![LU Decomposition to solve a matrix SS](https://github.com/Bhuvanesh-Suresh/LU-Decomposition/assets/145742661/003427de-2be5-440d-93e7-39f14d599012)
+![LU Decomposition to find L and U matrix SS](https://github.com/Bhuvanesh-Suresh/LU-Decomposition/assets/145742661/564fcb4b-e8ec-4493-8ad0-e4cf94c82b6a)
+
 
 ii)To find the LU Decomposition of a matrix
-![LU Decomposition to find L and U matrix SS](https://github.com/Bhuvanesh-Suresh/LU-Decomposition/assets/145742661/564fcb4b-e8ec-4493-8ad0-e4cf94c82b6a)
+![LU Decomposition to solve a matrix SS](https://github.com/Bhuvanesh-Suresh/LU-Decomposition/assets/145742661/3324621b-3c0f-41fa-995c-348c4bf85d88)
+
 
 
 ## Result:
